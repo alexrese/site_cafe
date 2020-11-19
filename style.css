@@ -1,0 +1,16 @@
+.navbar-dark{
+    background-color: #C19875 !important;
+}
+
+footer{
+    background-color: #C19875 !important; 
+}
+
+.text-muted{
+    color: white !important;
+}
+
+.btn-primary{
+    background-color: #414535 !important;
+    border: 1px solid #414535 !important;
+}
